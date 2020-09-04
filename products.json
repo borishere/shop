@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Chair",
+            "price": "455.00$",
+            "description": "Id repellat laboriosam enim nemo recusandae laboriosam ut. At placeat labore vel in. Provident molestiae omnis. Iure sequi aliquid enim qui ipsum nobis. Ut reiciendis officiis voluptatum nesciunt nemo nobis harum deserunt nam. Odio perferendis architecto fugit. Explicabo voluptatibus exercitationem. Voluptatem illum et atque. Atque autem beatae totam consectetur. Vel sapiente accusamus nemo aut. Quibusdam voluptas beatae error praesentium molestiae architecto culpa ea. Autem tenetur voluptatem delectus repellat nulla ut et."
+        },
+        {
+            "id": "2",
+            "name": "Table",
+            "price": "535.00$",
+            "description": "Consequatur quas dignissimos aspernatur omnis sunt velit impedit consectetur eveniet. Corrupti dolorem quis sunt officia tempora distinctio nemo hic nostrum. Eveniet sit maiores. Eveniet eum aut et molestias sunt quaerat pariatur nobis. Non quod sapiente quisquam aut omnis omnis. Velit ipsam alias odio adipisci quis ex sed dicta. Explicabo quaerat ullam. Illo enim nostrum labore rerum. Alias a quasi libero sed ut dolores ullam sunt ipsum. Inventore quas sequi provident ea in voluptates."
+        },
+        {
+            "id": "3",
+            "name": "Keyboard",
+            "price": "502.00$",
+            "description": "Est rerum deserunt. Cumque deleniti inventore consequatur in. Cum ut animi minus commodi officia ea consequuntur. Qui quia sint vel sed alias voluptas autem unde sed. Perspiciatis rem libero porro ea. Quae dolores ducimus quo minima mollitia sed id iure aut. Ducimus voluptatem voluptatem modi. Expedita consequatur perferendis voluptates eius ut fugiat omnis. Dolor mollitia aut dolorem. Vel praesentium asperiores eum voluptatem voluptatem repudiandae quia laboriosam vel. Maiores pariatur suscipit. Consequatur distinctio laudantium."
+        },
+        {
+            "id": "4",
+            "name": "Cheese",
+            "price": "848.00$",
+            "description": "Harum atque et numquam sit blanditiis quia. Quaerat inventore minima tenetur ad dolor. Sequi quaerat fugiat aut reiciendis omnis minus commodi non. Quia exercitationem excepturi quidem ipsum. Doloribus voluptatibus non quia aperiam architecto. Optio ea dolore dolorum vel aut. Aut voluptatum nobis saepe et voluptatem. Quisquam sed eum rem. Dolores error totam quis et quibusdam qui laborum dolores. Et dolorem sunt. Qui corporis doloribus. Officiis vel dignissimos. In quasi eius ratione quia aut nemo eum accusantium suscipit."
+        },
+        {
+            "id": "5",
+            "name": "Salad",
+            "price": "945.00$",
+            "description": "Impedit et eius maiores eius dignissimos aperiam optio itaque voluptatibus. Veniam et dolores et enim esse iste quam. Veniam hic pariatur et et enim ipsam saepe id eaque. Animi ea qui aliquid fugit assumenda quibusdam sit exercitationem velit. Doloremque eveniet facere dolor excepturi impedit iste eaque cupiditate qui. Voluptas ab unde sunt. Aut aut possimus illum qui voluptatibus. Dolores natus officia nobis aut sint nemo neque exercitationem cum. Ea est ut. Repellat laudantium maxime nihil. Porro consequatur quam nisi distinctio aut ut asperiores id ducimus. Error id porro est. Unde odio harum eveniet omnis. Nulla iure consequatur quas sit."
+        },
+        {
+            "id": "6",
+            "name": "Tuna",
+            "price": "646.00$",
+            "description": "Enim maxime officia. Sequi necessitatibus omnis hic aliquam ratione. Repudiandae vero ipsum facere. Eaque dolorem id libero alias. Illo dolores debitis natus excepturi. Nemo autem ad. Ullam quis adipisci repudiandae non ipsa. Placeat nemo qui non molestiae voluptates quia et. Tempore vero et ea repellat sunt. Eos eum et. Dolore et aliquam culpa sequi ipsa excepturi quod. Aut eligendi unde id perspiciatis ut porro similique. In deleniti quo beatae."
+        }
+    ]
+}
