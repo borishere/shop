@@ -2,8 +2,16 @@
     "items": [
         {
             "id": "1",
-            "name": "Chair",
+            "name": "Notebook",
             "price": "455.00$",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/notebook/1.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/2.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/3.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/4.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/5.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/6.jpg"
+            ],
             "description": "Id repellat laboriosam enim nemo recusandae laboriosam ut. At placeat labore vel in. Provident molestiae omnis. Iure sequi aliquid enim qui ipsum nobis. Ut reiciendis officiis voluptatum nesciunt nemo nobis harum deserunt nam. Odio perferendis architecto fugit. Explicabo voluptatibus exercitationem. Voluptatem illum et atque. Atque autem beatae totam consectetur. Vel sapiente accusamus nemo aut. Quibusdam voluptas beatae error praesentium molestiae architecto culpa ea. Autem tenetur voluptatem delectus repellat nulla ut et."
         },
         {
