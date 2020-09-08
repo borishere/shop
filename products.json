@@ -2,46 +2,106 @@
     "items": [
         {
             "id": "1",
-            "name": "Notebook",
-            "price": "455.00$",
+            "name": "Ультрабук Huawei MateBook D 14 Nbl-WAQ9R",
+            "price": "45000₽",
+            "description": "Ультрабук Huawei MateBook D 14 Nbl-WAQ9R - это надежный портативный компьютер, в котором практически нет изъянов. Модель 2020 года имеет предустановленную операционную систему Windows 10 Home, благодаря которой вам не придется тратить время на приобретение и установку ОС - вы можете начать работу практически сразу после приобретения этого лэптопа. Высокий статус и презентабельность внешнего вида устройству обеспечивает прочный металлический корпус серого цвета. Модель с классическим конструктивным исполнением имеет встроенную подсветку клавиш.\nВ ультрабуке Huawei MateBook D 14 Nbl-WAQ9R используется 14-дюймовый IPS-экран с высокочетким разрешением 1920x1080 пикселей (формат FullHD). Вы сможете работать за экраном этого ноутбука длительное время без необходимости перерывов, не испытывая при этом зрительной усталости, благодаря высокой плотности пикселей (157.4 ppi). Матовое покрытие экрана способствует минимальному количеству бликов от осветительных приборов. Максимальная частота обновления экрана достигает 60 Гц.",
             "images": [
                 "https://borishere.github.io/shop/storage/images/notebook/2.jpg",
                 "https://borishere.github.io/shop/storage/images/notebook/3.jpg",
                 "https://borishere.github.io/shop/storage/images/notebook/4.jpg",
                 "https://borishere.github.io/shop/storage/images/notebook/5.jpg",
                 "https://borishere.github.io/shop/storage/images/notebook/6.jpg"
-            ],
-            "description": "Id repellat laboriosam enim nemo recusandae laboriosam ut. At placeat labore vel in. Provident molestiae omnis. Iure sequi aliquid enim qui ipsum nobis. Ut reiciendis officiis voluptatum nesciunt nemo nobis harum deserunt nam. Odio perferendis architecto fugit. Explicabo voluptatibus exercitationem. Voluptatem illum et atque. Atque autem beatae totam consectetur. Vel sapiente accusamus nemo aut. Quibusdam voluptas beatae error praesentium molestiae architecto culpa ea. Autem tenetur voluptatem delectus repellat nulla ut et."
+            ]
         },
         {
             "id": "2",
-            "name": "Table",
-            "price": "535.00$",
-            "description": "Consequatur quas dignissimos aspernatur omnis sunt velit impedit consectetur eveniet. Corrupti dolorem quis sunt officia tempora distinctio nemo hic nostrum. Eveniet sit maiores. Eveniet eum aut et molestias sunt quaerat pariatur nobis. Non quod sapiente quisquam aut omnis omnis. Velit ipsam alias odio adipisci quis ex sed dicta. Explicabo quaerat ullam. Illo enim nostrum labore rerum. Alias a quasi libero sed ut dolores ullam sunt ipsum. Inventore quas sequi provident ea in voluptates."
+            "name": "Ноутбук Lenovo Ideapad S145-15AST",
+            "price": "37000₽",
+            "description": "Этот ноутбук создан для тех, кто хочет получить надежное и производительное компьютерное устройство с наиболее востребованным функционалом. Данная модель полностью удовлетворяет данные требования. Надежный накопитель предоставляет вам возможности для долговременного хранения необходимой виртуальной информации. Устройство оборудовано веб-камерой и микрофоном, благодаря которым вы сможете организовывать видеоконференции с партнерами по бизнесу и коллегами по работе.",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/notebook/1.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/2.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/3.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/4.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/5.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/6.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/7.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/8.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/9.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/10.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/11.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook2/12.jpg"
+            ]
         },
         {
             "id": "3",
-            "name": "Keyboard",
-            "price": "502.00$",
-            "description": "Est rerum deserunt. Cumque deleniti inventore consequatur in. Cum ut animi minus commodi officia ea consequuntur. Qui quia sint vel sed alias voluptas autem unde sed. Perspiciatis rem libero porro ea. Quae dolores ducimus quo minima mollitia sed id iure aut. Ducimus voluptatem voluptatem modi. Expedita consequatur perferendis voluptates eius ut fugiat omnis. Dolor mollitia aut dolorem. Vel praesentium asperiores eum voluptatem voluptatem repudiandae quia laboriosam vel. Maiores pariatur suscipit. Consequatur distinctio laudantium."
+            "name": "Ноутбук HP Laptop 15-dw1034ur",
+            "price": "21500₽",
+            "description": "Оставайтесь всегда на связи благодаря длительному времени работы от аккумулятора, которым отличается этот стильный и компактный ноутбук, оснащенный экраном с тонкими рамками. Надежный ноутбук HP с большим экраном 39,6 см (15,6\") предоставляет возможности для просмотра веб-страниц, трансляции видео и быстрого выполнения множества других задач. Сохраняйте высокую продуктивность и проводите время с удовольствием, где бы вы ни находились.",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/notebook3/1.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/2.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/3.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/4.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/5.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/6.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/7.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook3/8.jpg"
+            ]
         },
         {
             "id": "4",
-            "name": "Cheese",
-            "price": "848.00$",
-            "description": "Harum atque et numquam sit blanditiis quia. Quaerat inventore minima tenetur ad dolor. Sequi quaerat fugiat aut reiciendis omnis minus commodi non. Quia exercitationem excepturi quidem ipsum. Doloribus voluptatibus non quia aperiam architecto. Optio ea dolore dolorum vel aut. Aut voluptatum nobis saepe et voluptatem. Quisquam sed eum rem. Dolores error totam quis et quibusdam qui laborum dolores. Et dolorem sunt. Qui corporis doloribus. Officiis vel dignissimos. In quasi eius ratione quia aut nemo eum accusantium suscipit."
+            "name": "Ноутбук Dell Inspiron 3593-8789",
+            "price": "34000₽",
+            "description": "Ноутбук диагональю 15.6\", который сочетает в себе стильный дизайн и необходимые функции для любых повседневных задач. С процессорами Intel 10-го поколения и множеством портов. Процессоры Intel 10-го поколения обеспечивают невероятную скорость отклика, а также быструю и эффективную работу в многозадачном режиме. Дисплей с разрешением Full HD и антибликовым покрытием обеспечивает четкое, яркое и комфортное для глаз изображение.",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/notebook/1.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/2.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/3.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/4.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/5.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/6.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/7.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/8.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/9.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/10.jpg",
+                "https://borishere.github.io/shop/storage/images/notebook/11.jpg"
+            ]
         },
         {
             "id": "5",
-            "name": "Salad",
-            "price": "945.00$",
-            "description": "Impedit et eius maiores eius dignissimos aperiam optio itaque voluptatibus. Veniam et dolores et enim esse iste quam. Veniam hic pariatur et et enim ipsam saepe id eaque. Animi ea qui aliquid fugit assumenda quibusdam sit exercitationem velit. Doloremque eveniet facere dolor excepturi impedit iste eaque cupiditate qui. Voluptas ab unde sunt. Aut aut possimus illum qui voluptatibus. Dolores natus officia nobis aut sint nemo neque exercitationem cum. Ea est ut. Repellat laudantium maxime nihil. Porro consequatur quam nisi distinctio aut ut asperiores id ducimus. Error id porro est. Unde odio harum eveniet omnis. Nulla iure consequatur quas sit."
+            "name": "Стиральная машина LG F1296NDS1",
+            "price": "15000₽",
+            "description": "Стиральная машина LG F1296NDS1 станет практичным решением вопроса с чистотой белья даже в небольшой ванной. Ее ширина и глубина составляют 60 и 44 см соответственно. При этом за один раз прибор способен очистить до 6 кг белья за цикл. За счет большого количества встроенных программ получится создать оптимальные условия для стирки вещей из любой ткани. Для дополнительной чистоты можно обработать вещи паром. Если вам сейчас неудобно стирать, перенесите время начала работы прибора на удобный момент с помощью таймера на 19 ч.\nЗа безопасность использования стиральной машины LG F1296NDS1 отвечают контроль пенообразования, защита от скачков напряжения и блокировка от детей. Чтобы доставать белье из камеры практически сухим, можно регулировать отжим в пределах 1200 об/мин. По окончании стирки раздастся звуковой сигнал.",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/washing-machine/1.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/2.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/3.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/4.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/5.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/6.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/7.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/8.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/9.jpg",
+                "https://borishere.github.io/shop/storage/images/washing-machine/10.jpg"
+            ]
         },
         {
             "id": "6",
-            "name": "Tuna",
-            "price": "646.00$",
-            "description": "Enim maxime officia. Sequi necessitatibus omnis hic aliquam ratione. Repudiandae vero ipsum facere. Eaque dolorem id libero alias. Illo dolores debitis natus excepturi. Nemo autem ad. Ullam quis adipisci repudiandae non ipsa. Placeat nemo qui non molestiae voluptates quia et. Tempore vero et ea repellat sunt. Eos eum et. Dolore et aliquam culpa sequi ipsa excepturi quod. Aut eligendi unde id perspiciatis ut porro similique. In deleniti quo beatae."
+            "name": "Сушильная машина DEXP DM-F80HDMA/WB",
+            "price": "20000₽",
+            "description": "Сушильная машина DEXP DM-F80HDMA/WB – прогрессивное решение в осушении белья. Этот прибор избавляет владельца от необходимости обзаводиться дома веревками для развешивания вещей, размещать на полу неудобные сушилки и искать другие решения. В камере модели уместятся до 8 кг белья, а после окончания цикла работы его можно сразу убрать в шкаф или выгладить, в зависимости от необходимости.\nБарабан устройства изготовлен из нержавеющей стали. Отдельного внимания заслуживает класс энергоэффективности – А+++. Это значит, что сушильная машина DEXP DM-F80HDMA/WB расходует символическое количество электроэнергии. Безопасности использования прибора служат блокировка от детей и защита от перегрева. Модель имеет 16 режимов работы, среди которых можно выбрать подходящие для любой ткани, а также возможность отсрочки старта. Последняя пригодится, если белье должно быть высушено к конкретному времени, например, к вашему возвращению с работы.",
+            "images": [
+                "https://borishere.github.io/shop/storage/images/dryer/1.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/2.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/3.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/4.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/5.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/6.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/7.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/8.jpg",
+                "https://borishere.github.io/shop/storage/images/dryer/9.jpg"
+            ]
         }
     ]
 }
